@@ -1,0 +1,6 @@
+{
+  "name": "Pranjal AI",
+  "description": "Pranjal AI is a powerful AI chatbot application styled like ChatGPT, featuring chat persistence, advanced settings, custom personalities, and a premium Material Design interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
